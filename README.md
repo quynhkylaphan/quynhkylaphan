@@ -13,13 +13,13 @@
 - **Cloud Platforms:** AWS, Google Cloud, Azure
 - **Statistics & Analytics:** Hypothesis testing, regression, A/B testing
 
-🌟 Always curious, constantly improving, and ready to connect!
-
-📫 How to reach me: 
+📫 **How to reach me**: 
 - **Email:** kphan@villanova.edu / khanhquynhphan0804@gmail.com
 - **Phone:** (571) 567-1806
 
 ⚡ **Fun fact:** I am an international student from Vietnam!
+
+🌟 Always curious, constantly improving, and ready to connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
