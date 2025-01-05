@@ -1,10 +1,20 @@
 <h1 align="center">Hi! I'm Kyla Phan</h1>
-<h3 align="center">A passionate data & analytics learner</h3>
-- Education **Villanova University - Bachelor of Business Administration**
-- Majors **Management Information Systems, Business Analytics**
-- Minor **Artificial Intelligence & Machine Learning**
-- 📫 How to reach me **kphan@villanova.edu**
+<h3 align="center">A passionate data & analytics enthusiast</h3>
 
+🎓 **Education**  
+- **Villanova University**: Bachelor of Business Administration  
+  - **Majors**: Management Information Systems, Business Analytics  
+  - **Minor**: Artificial Intelligence & Machine Learning  
+
+🚀 **What I'm Learning:**
+- **Programming:** Python, SQL, R
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Cloud Platforms:** AWS, Google Cloud, Azure
+- **Statistics & Analytics:** Hypothesis testing, regression, A/B testing
+
+🌟 Always curious, constantly improving, and ready to connect!
+- 📫 How to reach me **kphan@villanova.edu**
 - ⚡ Fun fact **I am an international student from Vietnam!**
 
 <h3 align="left">Connect with me:</h3>
