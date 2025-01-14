@@ -9,9 +9,7 @@
 🚀 **What I'm Learning:**
 - **Programming:** Python, SQL, R
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Cloud Platforms:** AWS, Google Cloud, Azure
-- **Statistics & Analytics:** Hypothesis testing, regression, A/B testing
+- **Data Mining, Machine Learning & Analytics:** linear and logistic regression, classification (decision trees, random forest, XGBoost), deep learning (neural network)
 
 📫 **How to reach me**: 
 - **Email:** kphan@villanova.edu / khanhquynhphan0804@gmail.com
