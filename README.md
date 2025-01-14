@@ -9,7 +9,7 @@
 🚀 **What I'm Learning:**
 - **Programming:** Python, SQL, R
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Data Mining, Machine Learning & Analytics:** linear and logistic regression, classification (decision trees, random forest, XGBoost), deep learning (neural network)
+- **Data Mining, Machine Learning & Analytics:** Linear and Logistic Regression, Classification (Decision Trees, Random Forest, XGBoost), Deep Learning (Neural Network)
 
 📫 **How to reach me**: 
 - **Email:** kphan@villanova.edu / khanhquynhphan0804@gmail.com
