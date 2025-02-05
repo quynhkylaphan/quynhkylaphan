@@ -12,7 +12,7 @@
 - **Data Mining, Machine Learning & Analytics:** Linear and Logistic Regression, Classification (Decision Trees, Random Forest, XGBoost), Deep Learning (Neural Network)
 
 📫 **How to reach me**: 
-- **Email:** kphan@villanova.edu / khanhquynhphan0804@gmail.com
+- **Email:** kphan@villanova.edu / quynhphan0408@gmail.com
 - **Phone:** (571) 567-1806
 
 ⚡ **Fun fact:** I am an international student from Vietnam!
