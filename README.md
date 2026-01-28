@@ -7,7 +7,7 @@
   - **Minor**: Artificial Intelligence & Machine Learning  
 
 🚀 **What I'm Learning:**
-- **Programming:** Python, SQL
+- **Programming:** Python, SQL, R
 - **Data Visualization:** Tableau, Power BI, Qlik Sense, Matplotlib, Seaborn
 - **Data Mining, Machine Learning & Analytics:** Linear and Logistic Regression, Classification (Decision Trees, Random Forest, XGBoost), Deep Learning (Neural Network)
 
