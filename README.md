@@ -8,11 +8,11 @@
 
 🚀 **What I'm Learning:**
 - **Programming:** Python, SQL, R
-- **Data Visualization:** Tableau, Power BI, Qlik Sense, Matplotlib, Seaborn
+- **Data Visualization:** Qlik Sense, Tableau, Power BI, Matplotlib, Seaborn
 - **Data Mining, Machine Learning & Analytics:** Linear and Logistic Regression, Classification (Decision Trees, Random Forest, XGBoost), Deep Learning (Neural Network)
 
 📫 **How to reach me**: 
-- **Email:** kphan@villanova.edu / quynhphan0408@gmail.com
+- **Email:** quynhphan0408@gmail.com
 - **Phone:** (571) 567-1806
 
 ⚡ **Fun fact:** I am an international student from Vietnam!
